@@ -1,39 +1,77 @@
-# SOC Analyst Lab Work 🛡️
+# 🛡️ SOC Analyst Lab Work
 
-Welcome to my cybersecurity lab repository focused on building core SOC Analyst skills. This repo demonstrates practical hands-on work in:
-
-- 🔍 Reconnaissance and Threat Detection
-- 📊 Log Analysis (Windows Event Logs, Sysmon)
-- 🧠 Incident Response & Report Writing
-- 🛠️ Open-source Security Tools (Wireshark, Suricata, Splunk, etc.)
+Welcome to my cybersecurity lab project repository! This repo highlights my hands-on learning and practical skills as I train to become a Security Operations Center (SOC) Analyst.
 
 ---
 
-## 🧪 Lab Highlights
+## 🔍 Skills Demonstrated
 
-### 1. Lab: WAN Reconnaissance
-- Tools used: Nmap, Telnet, Metasploit
-- Objective: Scan & analyze external targets simulating attacker behavior
-- [Report](lab1-recon/lab1-recon.docx)
-
-### 2. Lab: Incident Response Simulation
-- Scenario: Malware-infected host
-- Steps: Triage, containment, analysis, reporting
-- [Report](incident-response/incident-report.docx)
+- Threat Detection & Analysis
+- Reconnaissance & Vulnerability Scanning
+- Log Analysis (Windows Event Logs, Sysmon)
+- Basic Malware Behavior Identification
+- Incident Reporting & Documentation
 
 ---
 
-## 📚 Tools and Technologies
+## 📁 Project Labs
 
-- Wireshark, Suricata, Splunk Free
-- Security Onion, ELK Stack, Nmap
-- Python (Log parsers), PowerShell Scripts
+### 🧪 Lab 1: WAN Reconnaissance
+- **Tools Used:** Nmap, Telnet, Metasploit
+- **Objective:** Simulate a real-world reconnaissance scan of external hosts
+- **Report:** [lab1-recon.docx](lab1-recon/lab1-recon.docx)
+
+### 🛠️ Lab 2: Incident Response Simulation
+- **Scenario:** Malware-infected Windows host
+- **Steps:** Triage → Analyze logs → Identify threats → Write report
+- **Report:** [incident-report.docx](incident-response/incident-report.docx)
+
+> ✅ More labs coming soon: Log analysis, phishing detection, SIEM use (Splunk), etc.
 
 ---
 
-## 👤 About Me
+## 🧰 Tools & Technologies
 
-I'm a Cybersecurity Master's student at Sacred Heart University, passionate about threat detection, digital forensics, and security operations.  
-Actively seeking SOC Analyst roles or internships.  
-📧 baddama9@mail.sacredheart.edu  
-🔗 [LinkedIn](https://linkedin.com/in/arun-reddy-758587212)
+- **Network Monitoring:** Wireshark, Suricata
+- **SIEM:** Splunk (Free Tier), Security Onion
+- **Reconnaissance:** Nmap, Netcat, Telnet
+- **Log Collection:** Sysmon, Event Viewer
+- **Scripting:** Python, Bash
+
+---
+
+## 👨‍💻 About Me
+
+I'm Arun Reddy Baddam, a Master's student in Cybersecurity at Sacred Heart University.  
+Actively seeking an internship or entry-level SOC Analyst role.
+
+📧 **Email:** baddama9@mail.sacredheart.edu  
+🔗 **LinkedIn:** [linkedin.com/in/arun-reddy-758587212](https://linkedin.com/in/arun-reddy-758587212)
+
+---
+
+## 📸 Screenshots (Coming Soon)
+
+You can add:
+- Nmap scan output
+- Wireshark traffic
+- Splunk dashboard
+- Incident timeline screenshot
+
+---
+
+## 📌 Next Steps (Optional but Recommended)
+
+- [ ] Add folders like `log-analysis`, `splunk-lab`, `malware-sim`
+- [ ] Add PDF versions of reports (GitHub can't preview `.docx`)
+- [ ] Add `README.md` in each lab folder
+- [ ] Pin this repo to your GitHub profile
+
+---
+
+Let me know if you want me to:
+- Format your other lab folders
+- Add a cool `GitHub Profile README`
+- Help with screenshots, project ideas, or tools setup
+
+Ready to polish this repo to **portfolio level**? 💪
